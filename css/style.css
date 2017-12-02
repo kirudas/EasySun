@@ -10,6 +10,29 @@
 *
 *****/
 
+#logotip {
+	margin-top: -20px;
+}
+
+
+#banner h3, h1 {
+text-shadow: -1px 0 black, 0 1px black,
+	  1px 0 black, 0 -1px black}
+}
+
+
+#nav{
+	background-color: b;
+}
+
+
+
+
+
+
+
+
+
 body{
 	margin: 0;
 	padding: 0;
@@ -25,10 +48,13 @@ a:hover, a:visited, a{
 	width: 100%;
 	z-index: 333;
 }
+
+
 .header-row{
 	margin: 0;
 	padding: 0;
 }
+	
 .top-header img.logo{
 	float: left;
 	margin-top: 8px;
