@@ -30,7 +30,7 @@ text-shadow: -1px 0 black, 0 1px black,
 
 
 
-a > li{
+li > a{
 	     margin-left: 9em; ;
 }
 
