@@ -31,9 +31,11 @@ text-shadow: -1px 0 black, 0 1px black,
 
 
 li > a{
-	     margin-left: 9em; ;
+	     margin-left: 2em; ;
 }
-
+.img-circle{
+	border: 2.5px solid black;
+}
 
 body{
 	margin: 0;
