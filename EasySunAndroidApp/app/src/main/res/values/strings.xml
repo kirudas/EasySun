@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Easy Sun</string>
+    <string name="home">Inici</string>
+    <string name="graphs">Resum</string>
+    <string name="configuration">Configuració</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="ControlDePermisos">Control de permisos</string>
+    <string name="ParaUsarEscioSonNecesariosTodosLosPermisos">Per a utilitzar Easy Sun són necessaris tots els permisos</string>
+    <string name="accept_button">Accepta</string>
+    <string name="sortint"> Sortint de Easy Sun </string>
+    <string name="segurSortir"> Segur que vols sortir? </string>
+    <string name="sortir"> Sortir </string>
+    <string name="cancela"> Cancel·la </string>
+    <string name="downLang_data"> Descarregant dades del PVGIS </string>
+    <string name="downLang_siusplau_acabi"> Si us plau, esperi que acabi </string>
+    <string name="descarregaFinalitzada">Descàrrega finalitzada </string>
+    <string name="descarregaFinalitzadaCorrectament"> Descàrrega finalitzada correctament </string>
+    <string name="problemaAlDescarregar"> Problema al descarregar la informació </string>
+    <string name="algunProblemaAlDescarregarElFitxer">Hi ha hagut algun problema al descarregar la informació, assegura\'t que tinguis internet i torna-ho a provar. Gràcies.</string>
+</resources>

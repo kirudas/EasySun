@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FF6702</color>
+    <color name="colorPrimaryDark">#E54818</color>
+    <color name="colorAccent">#FCBE00</color>
+
+    <color name="taronja1">#E89500</color>
+    <color name="taronja2">#E89500</color>
+    <color name="taronja3">#FF8E00</color>
+    <color name="taronja4">#FF7F00</color>
+    <color name="taronja5">#FF6702</color>
+    <color name="taronja6">#FF551B</color>
+    <color name="taronja7">#FF5000</color>
+
+    <color name="white">#ffffff</color>
+    <color name="transparent">#00000000</color>
+    <color name="black">#000000</color>
+    <color name="gray">#888888</color>
+    <color name="gray_dark">#434244</color>
+    <color name="light_gray">#D1D1D0</color>
+
+
+</resources>
