@@ -52,7 +52,11 @@ a:hover, a:visited, a{
 	width: 100%;
 	z-index: 333;
 }
-
+.mostres{
+	display: flex;
+  	align-items: center;
+  	justify-content: center;
+}
 
 .header-row{
 	margin: 0;
